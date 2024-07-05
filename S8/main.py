@@ -49,6 +49,7 @@ def best_workers(file_name):
 ####################################################################################
 
 n = int(input("Nechta malumot kiritmoqchisiz:"))
+
 add_file("workers_data.txt",n)
 
 best_workers("workers_data.txt")
