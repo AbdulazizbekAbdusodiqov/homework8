@@ -1,0 +1,9 @@
+abu Junior 1000 -100 1-bo'lim
+minato Senior 1000 100 2-bo'lim
+noname Middle 1000 100 3-bo'lim
+gaara Middle 1000 -100 2-bo'lim
+sasuke Junior 1000 100 1-bo'lim
+madara Senior 1000 -100 3-bo'lim
+naruto Junior 1000 100 1-bo'lim
+obito Middle 1000 -100 2-bo'lim
+itachi Senior 1000 100 1-bo'lim
